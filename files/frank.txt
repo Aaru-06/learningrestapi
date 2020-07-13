@@ -1,2 +1,0 @@
-hello everybody.!
-Writing my first REST api on kotlin using spring boot framework.!
